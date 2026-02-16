@@ -47,7 +47,7 @@ A collaborative project building a secure educational platform.
 I am actively looking for **Mid-Level Full-Stack** or **Remote Software Engineer** opportunities.
 
 - 📧 **Email:** [nightruner115@gmail.com](mailto:nightruner115@gmail.com)
-- 💬 **Telegram:** [@Eulean](https://t.me/Eulean) 
+- 💬 **Telegram:** [@nighteule39](https://t.me/nighteule39)
 - 📍 **Location:** Yangon, Myanmar (Available for Remote/Hybrid)
 
 ---
