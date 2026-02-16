@@ -35,9 +35,10 @@
 ---
 
 ### 📊 My GitHub Stats
-![Eulean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eulean&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eulean&layout=compact&theme=transparent)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eulean&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Eulean's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eulean&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+</p>
 ---
 
 ### 📫 Connect with Me
