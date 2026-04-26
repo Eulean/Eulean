@@ -1,45 +1,93 @@
-# Hi there, I'm Wai Phyo Oo 👋
-### Full-Stack Software Engineer | .NET, Java & React Specialist
+# 👋 Hi, I'm Wai Phyo Oo
 
-I am a results-driven Software Engineer with over 2 years of experience building scalable enterprise systems and modern web applications. Currently, I am a Software Engineer at **Shwe Digit**, where I specialize in refactoring legacy codebases, solving deep bugs, and optimizing core systems like **Tradenet**.
+**Backend-Focused Full-Stack Engineer (.NET, Go, React)**
+I build scalable systems by turning complex business requirements into high-performance, maintainable solutions.
 
-I bridge the gap between complex business logic and high-performance user interfaces using **ASP.NET Core**, **Java Spring Boot**, and **React**.
-
----
-
-### 🚀 Technical Expertise & Professional Experience
-
-- **Backend Mastery:** Expert in **C# (.NET)** and **Java (Spring Boot)**, with deep experience in **Entity Framework**, **LINQ optimization**, and **REST API development**.
-- **Frontend Excellence:** Building responsive, modular UIs with **React**, **TypeScript**, and **JavaScript**, while currently expanding into **Angular**.
-- **System Architecture:** Strong advocate for **Clean Architecture**, **Vertical Slice Architecture**, and the **Repository Pattern** to ensure system maintainability.
-- **Advanced Features:** Specialized in **Unicode-aware search logic**, **Secure Auth Flows (JWT/Sessions)**, and **Payment Gateway Integration**.
-- **Reporting & DevOps:** Delivering advanced reporting using **QuestPDF** and **Puppeteer PDF**, and managing development environments with **Docker**.
+I have hands-on experience working with **enterprise systems and legacy codebases**, focusing on performance optimization, system reliability, and clean architecture.
 
 ---
 
-### 🏆 Featured Projects & Professional Highlights
+## 🧠 Technical Skills
 
-#### 🏢 Core System Engineering (Shwe Digit)
-- **Tradenet (Core System):** Contributed to a complex legacy Entity Framework backend, resolving deep bugs and refactoring logic to improve performance.
-- **Ecomrec (E-commerce System):** Rewrote core search functionality to support Unicode and keyword precision, improving query accuracy and responsiveness.
-- **Doca & Custom Integration:** Developed dynamic reporting pages and integrated reusable search logic while building React components for payment data display.
+### Backend
 
-#### 🛠️ [POSFORRESTURANT](https://github.com/Eulean/POSFORRESTURANT)
-- A high-performance Point of Sale system designed to handle real-time table management, inventory deduction, and billing logic.
-- **Technical Highlight:** Implemented a robust database schema to ensure data integrity across thousands of daily transactions.
+* C# (.NET 8), Go, Java (Spring Boot)
+* Entity Framework Core, LINQ, Raw SQL
+* RESTful API design, authentication (JWT / session)
 
-#### 📊 Proils Project (Full-Stack Freelance)
-- **Role:** Led setup and GitHub management: created branching strategy, oversaw merging, and managed development flow.
-- **Impact:** Built a full-stack application for data entry and search, delivering 6 different PDF export formats using QuestPDF and Puppeteer PDF.
+### Frontend
+
+* React + TypeScript
+* Tailwind CSS, shadcn/ui
+* Zod (schema validation)
+
+### Systems & DevOps
+
+* PostgreSQL, SQL Server, Redis
+* Docker, GitHub Actions (CI/CD)
+* AWS S3, Vercel, Railway
 
 ---
 
-### 📫 Connect with Me
-I am actively looking for **Mid-Level Full-Stack**, **Remote**, or **Hybrid** developer roles.
+## 🏗️ Engineering Approach
 
-- 📧 **Email:** nightruner115@gmail.com
-- 💬 **Telegram:** [@nighteule39](https://t.me/nighteule39)
-- 🌐 **GitHub:** [github.com/Eulean](https://github.com/Eulean)
-- 📍 **Location:** Yangon, Myanmar
+* Apply **Clean Architecture and Vertical Slice patterns** in production systems
+* Focus on **query optimization and caching strategies** for large datasets
+* Follow an iterative workflow: **build → refactor → optimize**
+* Adapt architecture pragmatically based on project requirements
+* Experienced in maintaining and improving **legacy systems**
 
-*"Passionate about optimizing legacy systems and delivering real business value through clean, secure code."*
+---
+
+## 🏆 Professional Work & Projects
+
+### 🏢 Enterprise Systems — Shwe Digit
+
+* **Tradenet**: Refactored legacy Entity Framework logic and resolved deep architectural issues, improving performance in high-traffic modules
+* **Ecomrec**: Developed Unicode-aware search logic to improve query accuracy for regional datasets
+
+---
+
+### 🍽️ POS System
+
+* Built a high-concurrency Point of Sale system
+* Implemented real-time inventory handling and billing logic
+* Designed a database schema supporting high transaction volume with strong data consistency
+
+---
+
+### 📊 Proils (Full-Stack Freelance)
+
+* Developed a data-entry platform with **6+ dynamic PDF export formats** (QuestPDF, Puppeteer)
+* Managed Git workflows and deployment pipeline
+
+---
+
+### ⚡ Go Backend Projects
+
+* Building high-performance APIs with focus on:
+
+  * concurrency (goroutines, channels)
+  * low-latency services
+  * scalable backend design
+
+---
+
+## 🚀 Current Focus
+
+* High-performance backend systems using **Go**
+* Distributed system patterns (caching, background jobs, rate limiting)
+* Scaling applications to handle large datasets
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [eulen9t5@gmail.com](mailto:eulen9t5@gmail.com)
+* 💬 Telegram: @nighteule39
+* 🌐 GitHub: https://github.com/Eulean
+* 📍 Yangon, Myanmar (Open to Remote / Hybrid roles)
+
+---
+
+> I specialize in building and shipping complete systems independently — from database design to production deployment.
